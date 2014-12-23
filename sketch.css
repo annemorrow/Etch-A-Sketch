@@ -1,0 +1,18 @@
+.block {
+   background-color: orange;
+   margin: 1px;
+   float: left;
+}
+
+.block.highlight {
+   background-color: green;
+}
+
+#grid {
+   width: 400px;
+   height: 400px;
+}
+
+input {
+   margin: 2px;
+}
